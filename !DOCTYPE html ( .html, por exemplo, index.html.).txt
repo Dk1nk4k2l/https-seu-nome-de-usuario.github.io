@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel Hermino Pereira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 10px;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Daniel Hermino Pereira</h1>
+    <p>Profissional de Segurança Privada | Estudante de Letras</p>
+</header>
+
+<nav>
+    <a href="#about">Sobre Mim</a>
+    <a href="#portfolio">Portfólio</a>
+    <a href="#blog">Blog</a>
+    <a href="#contact">Contato</a>
+</nav>
+
+<div class="container">
+
+    <section id="about" class="section">
+        <h2>Sobre Mim</h2>
+        <p>Olá! Meu nome é Daniel Hermino Pereira, sou profissional de segurança privada, atuando como vigilante patrimonial. Sou bonito, inteligente e de boa família. Estou atualmente cursando Letras - Português e Espanhol. Sou divorciado e pai de um filho chamado Davi. Adoro trabalhar e estudar, e estou constantemente buscando aumentar meu conhecimento na área de segurança privada. Meu objetivo é prestar concurso para a Polícia Federal após terminar meu curso superior.</p>
+    </section>
+
+    <section id="portfolio" class="section">
+        <h2>Portfólio</h2>
+        <p>Em breve, adicionarei projetos e trabalhos que desenvolvi ao longo da minha carreira e estudos.</p>
+    </section>
+
+    <section id="blog" class="section">
+        <h2>Blog</h2>
+        <p>Aqui você encontrará artigos e posts sobre segurança privada, administração, turismo, lazer, pesquisas e educação.</p>
+    </section>
+
+    <section id="contact" class="section">
+        <h2>Contato</h2>
+        <p>Você pode me encontrar nas redes sociais:</p>
+        <ul>
+            <li><a href="https://facebook.com">Facebook</a></li>
+            <li><a href="https://instagram.com">Instagram</a></li>
+            <li><a href="https://twitter.com">Twitter</a></li>
+            <li><a href="https://wa.me">WhatsApp</a></li>
+        </ul>
+    </section>
+
+</div>
+
+<footer>
+    <p>&copy; 2024 Daniel Hermino Pereira. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
